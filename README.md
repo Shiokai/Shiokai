@@ -1,4 +1,9 @@
-### Hi there 👋
+## Social links
+
+[![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/Shiokai_waswo "@Shiokai_waswo")
+[![discord](https://img.shields.io/badge/discord-user--id-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/785218365480239167 "Shiokai#8615")
+[![booth](https://img.shields.io/static/v1?label=Booth&message=shop&color=fc4d50)](https://shiokai.booth.pm/ "しおかいの露店")
+[![vrchat](https://img.shields.io/static/v1?label=VRChat&message=user-page&color=black)](https://vrchat.com/home/user/usr_00195c34-78e3-4f46-8310-1e7267f0d873 "Shiokai")
 
 <!--
 **Shiokai/Shiokai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
